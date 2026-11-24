@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/35308295/README.md)[Uploadin# Leitor de Comprovantes
+# Leitor de Comprovantes
 
 Aplicativo web (PWA) que lê fotos de notas, faturas e recibos com inteligência artificial, organiza os gastos e avisa dos próximos vencimentos de contas mensais e parceladas. Funciona no navegador do computador e do celular e pode ser instalado como app.
 
@@ -103,4 +103,3 @@ Todos os caminhos são relativos, então funciona tanto na raiz de um domínio q
 - Fotos tortas, escuras ou com texto cortado reduzem a qualidade da leitura.
 - Os dados não sincronizam sozinhos entre aparelhos. Use o backup e a restauração.
 - A chave da API fica visível para quem usa o navegador onde ela foi salva.
-g README.md…]()
